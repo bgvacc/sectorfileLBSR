@@ -1,0 +1,35 @@
+VOICE
+AG:LBSR_CTR:131.220:voice2.vatsim-germany.org:lbsr_ctr
+AG:LBSR_V_CTR:134.700:voice2.vatsim-germany.org:lbsr_v_ctr
+AG:LBSR_I_CTR:130.600:voice2.vatsim-germany.org:lbsr_i_ctr
+AG:LBSF_APP:123.700:voice2.vatsim-germany.org:lbsf_app
+AG:LBSF_TWR:118.100:voice2.vatsim-germany.org:lbsf_twr
+
+END
+PROFILE
+PROFILE:LBSR_CTR:350:6
+ATIS2:Sofia Control
+ATIS3:Covering the whole Sofia FIR (including the Varna subset)
+ATIS4:
+PROFILE:LBSR_V_CTR:350:6
+ATIS2:Sofia Control
+ATIS3:Covering the Varna subset of the Sofia FIR
+ATIS4:
+PROFILE:LBSR_I_CTR:350:6
+ATIS2:Sofia Information
+ATIS3:Provide FIC services in class G airspace BLW FL105
+ATIS4:
+PROFILE:LBSF_APP:100:5
+ATIS2:Sofia Radar
+ATIS3:
+ATIS4:
+PROFILE:LBSF_F_APP:100:5
+ATIS2:Sofia Director
+ATIS3:
+ATIS4:
+PROFILE:LBSF_TWR:50:4
+ATIS2:Sofia Tower
+ATIS3:
+ATIS4:
+
+END
